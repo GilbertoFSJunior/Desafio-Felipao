@@ -34,8 +34,10 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
+##Minha Solução
+
  ![Resolução do Desafio](https://github.com/GilbertoFSJunior/Desafio-Felipao/blob/main/Desafio-Felipao-Resolu%C3%A7%C3%A3o.png)
- ![Saida do Desafio](
+ ![Saida do Desafio](https://github.com/GilbertoFSJunior/Desafio-Felipao/blob/main/Desafio-Felipao-Saida.png)
  
  
 Bons estudos 😉
